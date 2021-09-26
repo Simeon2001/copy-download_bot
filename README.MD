@@ -12,5 +12,6 @@ you can get your selenium chromedriver here: https://chromedriver.chromium.org/g
 
 place the chromedriver and the script in same folder
 
-downloaded from https://www.instagram.com/p/CUOwS3YLUBj/?utm_source=ig_web_copy_link
+downloaded from https://www.instagram.com/p/CUPYI00ANGk/?utm_source=ig_web_copy_link 
 <img src="instabot1632613568.3971937.png"> 
+enjoy python
